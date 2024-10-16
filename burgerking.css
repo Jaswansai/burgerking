@@ -1,0 +1,35 @@
+#burger{
+    width: 600px;
+    
+}
+img{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px ;
+}
+button{
+    margin-left: 450px;
+    padding: 10px 12px;
+    border-radius: 25px;
+    color: #d2300d;
+    background-color: transparent;
+    font-size: 15px;
+    width: 150px;
+    height: 50px;
+    border-color: #d2300d;
+}
+button:hover{
+    background-color: rgb(234, 181, 181);
+    transition: 2s;
+}
+a{
+    color:#502314;
+    font-size: 20px;
+}
+h4{
+    color: #502314;
+    font-size: 25px;
+}
+p{
+    color: #502314;
+    font-size:18px ;
+}
